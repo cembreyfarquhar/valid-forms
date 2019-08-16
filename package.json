@@ -1,0 +1,9 @@
+{
+  "name": "valid-forms",
+  "version": "0.0.1",
+  "description": "Easy validation for user registration forms",
+  "main": "index.js",
+  "repository": "https://github.com/cembreyfarquhar/valid-forms",
+  "author": "Chance Embrey-Farquhar",
+  "license": "MIT"
+}
